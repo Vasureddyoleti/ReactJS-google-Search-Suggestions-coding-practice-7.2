@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.button {
+  border: none;
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+}
+.arrow {
+  width: 25px;
+  height: 25px;
+}
+.suggestion-text {
+  font-family: 'Roboto';
+  color: #475569;
+}

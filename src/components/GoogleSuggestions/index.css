@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.bg-container {
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.logo {
+  height: 150px;
+  width: 400px;
+}
+.search-container {
+  box-shadow: 0px 4px 16px 0px;
+  border-radius: 10px;
+  padding: 15px;
+  min-width: 600px;
+  margin: 20px;
+}
+.icon-searchbar-container {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+.search-bar {
+  border: none;
+  font-size: 17px;
+  margin-left: 10px;
+  color: #64748b;
+  outline: none;
+  width: 100%;
+}
+.searchIcon {
+  height: 35px;
+  width: 35px;
+}
+.list-container {
+  list-style-type: none;
+}
